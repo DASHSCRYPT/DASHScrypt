@@ -1,0 +1,9 @@
+Building DASHSCRYPT
+
+See doc/readme-qt.rst for instructions on building DASHSCRYPT QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DASHSCRYPT.
+
+See doc/build-*.txt for instructions on building dashscryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of DASHSCRYPT.
